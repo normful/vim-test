@@ -485,3 +485,4 @@ Copyright © Janko Marohnić. Distributed under the same terms as Vim itself. Se
 [MakeGreen]: https://github.com/reinh/vim-makegreen
 [M]: http://github.com/qrush/m
 [projectionist.vim]: https://github.com/tpope/vim-projectionist
+
